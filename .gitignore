@@ -1,0 +1,5 @@
+android
+local
+ios
+!*.sh
+.DS_Store
